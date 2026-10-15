@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62630929508",
+    "project_id": "ros-id",
+    "storage_bucket": "ros-id.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62630929508:android:043ce7152119f2b2dc6b71",
+        "android_client_info": {
+          "package_name": "com.example.ros"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANSDjtTqF_t8z9gNKxb2MOnjxfXySxecU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
